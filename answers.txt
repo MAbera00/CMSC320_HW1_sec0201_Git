@@ -9,3 +9,7 @@ Answer: Data science could be applied to healthcare. For example, you can analyz
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: To keep track of changes in your project over time and have access to previous versions (version history). When needed, you can revert to an earlier version of your code.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to work more with python and get a look into some basics with data science.
